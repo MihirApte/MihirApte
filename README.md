@@ -26,7 +26,7 @@ I like to formulate a problem from scratch, build a proper evaluation, and be ho
 - Currently: open to data science and AI/ML roles in Ireland.
 - Outside work: football, learning Spanish, yoga and workouts, and cooking.
 
-See the full story, with case studies, on my portfolio website: **[mihirapte-portfolio.vercel.app](https://mihirapte-portfolio.vercel.app)**
+See the full story, with case studies, on my **[portfolio website](https://mihirapte-portfolio.vercel.app)**.
 
 <br/>
 
@@ -118,7 +118,7 @@ A neural network that solves heat-conduction PDEs with no labelled data, matchin
 </p>
 
 <p align="center">
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MihirApte&theme=tokyo-night&hide_border=true"/>
+  <img alt="Contribution calendar" src="https://ghchart.rshah.org/6D5EFC/MihirApte"/>
 </p>
 
 <br/>
@@ -132,13 +132,3 @@ A neural network that solves heat-conduction PDEs with no labelled data, matchin
   <a href="https://mihirapte-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6D5EFC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://github.com/MihirApte"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-
-<br/>
-
-## Contact
-
-I am open to data science and AI/ML opportunities in Ireland. The quickest ways to reach me:
-
-- Portfolio: [mihirapte-portfolio.vercel.app](https://mihirapte-portfolio.vercel.app)
-- LinkedIn: [linkedin.com/in/mihir-apte](https://www.linkedin.com/in/mihir-apte)
-- Email: [mihirapte24@gmail.com](mailto:mihirapte24@gmail.com)
